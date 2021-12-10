@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://c.tenor.com/4HDSWO43pHAAAAAi/kumapls-anime.gif" width = 50px></h2>
 
-<img width="30%" height="30%" align="right" alt="Anime" src="https://i.4pcdn.org/pol/1592767075900.png" />
+<img width="30%" height="30%" align="right" alt="Anime" src="https://raw.githubusercontent.com/Nomeleel/Assets/master/Nomeleel/computer-programming-anime-programming-language-thread-animation-gril-rote.png" />
 
 
 - 🔭 I’m currently working on [DermatoNet project](https://www.ufrgs.br/telessauders/telediagnostico/dermatonet/)
@@ -35,7 +35,7 @@
 
 
 <h2> Connect with me here: 
-<a href = 'https://www.linkedin.com/in/cmladias'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> </h2>
+<a href = 'https://www.linkedin.com/in/cmladias'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> </h2>
 
 
 <h2> My GitHub Stats <img src='https://c.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif' width='32px'> </h2>
