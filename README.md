@@ -11,7 +11,7 @@
 <div size='20px'> Hi! My name is Camila. Machine learning engineer trying to make a better world. :smile: 
 </div>
 
-<h2> About Me <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01386e10-8cd0-4eff-a87e-99ddfb141fb8/d9g9it9-749f0e9e-eb70-4dea-80f7-b5f6b50831d7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAxMzg2ZTEwLThjZDAtNGVmZi1hODdlLTk5ZGRmYjE0MWZiOFwvZDlnOWl0OS03NDlmMGU5ZS1lYjcwLTRkZWEtODBmNy1iNWY2YjUwODMxZDcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JtShQQf8a7esqgLTqFlQ8vp7H4EL9o5AgIECztXyfGo" width = 100px></h2>
+<h2> About Me <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01386e10-8cd0-4eff-a87e-99ddfb141fb8/d9g9it9-749f0e9e-eb70-4dea-80f7-b5f6b50831d7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAxMzg2ZTEwLThjZDAtNGVmZi1hODdlLTk5ZGRmYjE0MWZiOFwvZDlnOWl0OS03NDlmMGU5ZS1lYjcwLTRkZWEtODBmNy1iNWY2YjUwODMxZDcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JtShQQf8a7esqgLTqFlQ8vp7H4EL9o5AgIECztXyfGo" width = 50px></h2>
 
 <img width="30%" height="30%" align="right" alt="Anime" src="https://i.4pcdn.org/pol/1592767075900.png" />
 
