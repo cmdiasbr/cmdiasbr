@@ -11,9 +11,9 @@
 <div size='20px'> Hi! My name is Camila. Machine learning engineer trying to make a better world. :smile: 
 </div>
 
-<h2> About Me <img src = "https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e4703t2cczt556uxxrl33blfa8zpkq79hjj39ikp5mh&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "" width = 100px></h2>
 
-<img width="30%" height="30%" align="right" alt="Anime" src="https://image.pngaaa.com/144/1802144-middle.png" />
+<img width="30%" height="30%" align="right" alt="Anime" src="https://i.4pcdn.org/pol/1592767075900.png" />
 
 
 - 🔭 I’m currently working on [DermatoNet project](https://www.ufrgs.br/telessauders/telediagnostico/dermatonet/)
@@ -51,6 +51,3 @@
 
 ![Metrics](https://metrics.lecoq.io/cmdiasbr?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
