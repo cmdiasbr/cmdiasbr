@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cmladias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cmladias" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cmladias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cmladias" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cmladias" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/554/978/png-transparent-white-in-text-on-black-background-black-and-white-point-angle-pattern-linkedin-texture-white-text.png" alt="cmladias" height="30" width="40" /></a>
 <a href="https://instagram.com/mscdias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mscdias" height="30" width="40" /></a>
 </p>
 
