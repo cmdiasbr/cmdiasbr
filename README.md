@@ -35,7 +35,7 @@
 
 
 <h2> Connect with me here: 
-<a href = 'https://www.linkedin.com/in/cmladias'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> </h2>
+<a href = 'https://www.linkedin.com/in/cmladias'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> </h2>
 
 
 <h2> My GitHub Stats <img src='https://c.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif' width='32px'> </h2>
