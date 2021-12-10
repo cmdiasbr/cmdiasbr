@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e4703t2cczt556uxxrl33blfa8zpkq79hjj39ikp5mh&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Anime" src="https://www.pngitem.com/pimgs/m/115-1156076_anime-girls-holding-programming-books-hd-png-download.png" />
+<img width="100%" align="right" alt="Anime" src="https://www.pngitem.com/pimgs/m/115-1156076_anime-girls-holding-programming-books-hd-png-download.png" />
 
 
 - 🔭 I’m currently working on [DermatoNet project](https://www.ufrgs.br/telessauders/telediagnostico/dermatonet/)
