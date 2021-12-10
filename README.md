@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--fXIgQ9zY--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/http://media.comicbook.com/2017/05/anime-streaming-computer-994731.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cmdiasbr.cmdiasbr)
@@ -11,9 +11,9 @@
 <div size='20px'> Hi! My name is Camila. Machine learning engineer trying to make a better world. :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e4703t2cczt556uxxrl33blfa8zpkq79hjj39ikp5mh&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Anime" src="https://www.pngitem.com/pimgs/m/115-1156076_anime-girls-holding-programming-books-hd-png-download.png" />
 
 
 - 🔭 I’m currently working on [DermatoNet project](https://www.ufrgs.br/telessauders/telediagnostico/dermatonet/)
