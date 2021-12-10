@@ -11,7 +11,7 @@
 <div size='20px'> Hi! My name is Camila. Machine learning engineer trying to make a better world. :smile: 
 </div>
 
-<h2> About Me <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01386e10-8cd0-4eff-a87e-99ddfb141fb8/d9g9it9-749f0e9e-eb70-4dea-80f7-b5f6b50831d7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAxMzg2ZTEwLThjZDAtNGVmZi1hODdlLTk5ZGRmYjE0MWZiOFwvZDlnOWl0OS03NDlmMGU5ZS1lYjcwLTRkZWEtODBmNy1iNWY2YjUwODMxZDcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JtShQQf8a7esqgLTqFlQ8vp7H4EL9o5AgIECztXyfGo" width = 50px></h2>
+<h2> About Me <img src = "https://c.tenor.com/V4MDI-tgC4QAAAAi/anime-boy.gif" width = 50px></h2>
 
 <img width="30%" height="30%" align="right" alt="Anime" src="https://i.4pcdn.org/pol/1592767075900.png" />
 
@@ -35,10 +35,10 @@
 
 
 <h2> Connect with me here: 
-<a href = 'https://www.linkedin.com/in/cmladias'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> </h2>
+<a href = 'https://www.linkedin.com/in/cmladias'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> </h2>
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats <img src='https://c.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif' width='20px'> </h2>
 
 ![Metrics](https://metrics.lecoq.io/cmdiasbr?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
