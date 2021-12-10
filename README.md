@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--fXIgQ9zY--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/http://media.comicbook.com/2017/05/anime-streaming-computer-994731.png" alt="cover" />
+<img width="357px" height = "201px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--fXIgQ9zY--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/http://media.comicbook.com/2017/05/anime-streaming-computer-994731.png" alt="cover" />
 </div>
 
 <h1> Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
