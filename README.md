@@ -11,7 +11,7 @@
 <div size='20px'> Hi! My name is Camila. Machine learning engineer trying to make a better world. :smile: 
 </div>
 
-<h2> About Me <img src = "https://c.tenor.com/V4MDI-tgC4QAAAAi/anime-boy.gif" width = 50px></h2>
+<h2> About Me <img src = "https://c.tenor.com/4HDSWO43pHAAAAAi/kumapls-anime.gif" width = 50px></h2>
 
 <img width="30%" height="30%" align="right" alt="Anime" src="https://i.4pcdn.org/pol/1592767075900.png" />
 
@@ -38,7 +38,7 @@
 <a href = 'https://www.linkedin.com/in/cmladias'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> </h2>
 
 
-<h2> My GitHub Stats <img src='https://c.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif' width='20px'> </h2>
+<h2> My GitHub Stats <img src='https://c.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif' width='32px'> </h2>
 
 ![Metrics](https://metrics.lecoq.io/cmdiasbr?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
