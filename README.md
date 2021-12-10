@@ -11,7 +11,7 @@
 <div size='20px'> Hi! My name is Camila. Machine learning engineer trying to make a better world. :smile: 
 </div>
 
-<h2> About Me <img src = "" width = 100px></h2>
+<h2> About Me <img src = "https://66.media.tumblr.com/tumblr_ma6ch5nx2h1rfjowdo1_500.gif" width = 100px></h2>
 
 <img width="30%" height="30%" align="right" alt="Anime" src="https://i.4pcdn.org/pol/1592767075900.png" />
 
