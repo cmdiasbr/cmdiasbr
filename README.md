@@ -40,4 +40,4 @@
 
 <h2> My GitHub Stats <img src='https://c.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif' width='32px'> </h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmdiasbr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmdiasbr&count_private=true&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
