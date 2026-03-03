@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cmdiasbr.cmdiasbr)
 
 </p>
-<div size='20px'> Hi! My name is Camila. Machine learning engineer trying to make a better world. :smile: 
+<div size='20px'> Hi! My name is Camila. Actually I'm R&D Specialist (AI), trying to make a better world. :smile: 
 </div>
 
 <h2> About Me <img src = "https://c.tenor.com/4HDSWO43pHAAAAAi/kumapls-anime.gif" width = 50px></h2>
