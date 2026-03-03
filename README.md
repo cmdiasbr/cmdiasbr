@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/212ad1e8-faf6-4091-aa04-f37a29ea4a2b-profile_banner-480.png" alt="cover" />
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/161910086/original/133bed8af6acf837bc399bc2f7207ba0f15cda0b/draw-you-youtube-twitter-facebook-or-twitch-cover-photo.png" alt="cover" />
 </div>
 
 <h1> Hello there! <img src = "https://c.tenor.com/eEeyzNqrdyYAAAAi/kitkatandahalf-mood-magical-girl-mio.gif" width = 50px> </h1>
