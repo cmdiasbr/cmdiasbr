@@ -1,5 +1,5 @@
 <div align="center">
-<img width="357px" height = "201px" src="[https://res.cloudinary.com/practicaldev/image/fetch/s--fXIgQ9zY--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/http://media.comicbook.com/2017/05/anime-streaming-computer-994731.png](https://t4.ftcdn.net/jpg/08/39/53/59/360_F_839535974_3zYd9rCkTn7sLtOCzzvQVjd2SrRG3dMX.jpg)" alt="cover" />
+<img width="357px" height = "201px" src="https://t4.ftcdn.net/jpg/08/39/53/59/360_F_839535974_3zYd9rCkTn7sLtOCzzvQVjd2SrRG3dMX.jpg" alt="cover" />
 </div>
 
 <h1> Hello there! <img src = "https://c.tenor.com/eEeyzNqrdyYAAAAi/kitkatandahalf-mood-magical-girl-mio.gif" width = 50px> </h1>
