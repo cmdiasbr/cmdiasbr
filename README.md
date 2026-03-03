@@ -5,8 +5,6 @@
 <h1> Hello there! <img src = "https://c.tenor.com/eEeyzNqrdyYAAAAi/kitkatandahalf-mood-magical-girl-mio.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cmdiasbr.cmdiasbr)
-
 </p>
 <div size='20px'> Hi! My name is Camila. Actually I'm R&D Specialist (AI), trying to make a better world. :smile: 
 </div>
