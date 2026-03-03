@@ -36,8 +36,3 @@
 
 <h2> Connect with me here: 
 <a href = 'https://www.linkedin.com/in/cmladias'> <img width = '25px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> </h2>
-
-
-<h2> My GitHub Stats <img src='https://c.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif' width='32px'> </h2>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmdiasbr&count_private=true&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
